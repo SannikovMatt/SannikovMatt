@@ -13,8 +13,3 @@
   <img src="https://img.shields.io/badge/Node.js-3873b2?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js">
   <img src="https://img.shields.io/badge/PostgreSQL-3873b2?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL">
 </p>
-
-<p align="center">
-  <strong>Now</strong> &nbsp;Lead Engineer @ Neovate Digital &nbsp;&nbsp;·&nbsp;&nbsp;
-  <strong>Before</strong> &nbsp;FirstLine Software, 3.5 years
-</p>
