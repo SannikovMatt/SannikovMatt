@@ -18,10 +18,3 @@
   <strong>Now</strong> &nbsp;Lead Engineer @ Neovate Digital &nbsp;&nbsp;·&nbsp;&nbsp;
   <strong>Before</strong> &nbsp;FirstLine Software, 3.5 years
 </p>
-
-<p align="center">
-  <a href="https://sannikovmatt.github.io/CV/">
-    <img src="https://img.shields.io/badge/CV-sannikovmatt.github.io-3873b2?style=flat-square" alt="CV">
-  </a>
-  &nbsp;&nbsp;Prague, remote&nbsp;&nbsp;·&nbsp;&nbsp;EN / RU / AZ / CZ
-</p>
