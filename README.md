@@ -1,8 +1,7 @@
 ## Dmitriy Sannikov
 
-Senior software engineer working on **DeFi execution infrastructure** — swap
-routing and aggregation, automated on-chain execution, and the node and RPC
-infrastructure underneath. I build the front ends for what I ship, too.
+Senior software engineer working on **DeFi execution infrastructure** —
+on-chain automation, node and RPC infrastructure, and the front ends on top.
 
 **Now** — Lead Engineer at Neovate Digital, leading engineering for protocol clients.
 
