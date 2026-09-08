@@ -1,13 +1,27 @@
-## Dmitriy Sannikov
+<h3 align="center">Dmitriy Sannikov</h3>
 
-Senior software engineer working on **DeFi execution infrastructure** —
-on-chain automation, node and RPC infrastructure, and the front ends on top.
+<p align="center">
+  DeFi execution infrastructure — on-chain automation, node and RPC infra,<br>
+  and the front ends on top.
+</p>
 
-**Now** — Lead Engineer at Neovate Digital, leading engineering for protocol clients.
+<p align="center">
+  <img src="https://img.shields.io/badge/TypeScript-3873b2?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
+  <img src="https://img.shields.io/badge/Solidity-3873b2?style=flat-square&logo=solidity&logoColor=white" alt="Solidity">
+  <img src="https://img.shields.io/badge/Rust-3873b2?style=flat-square&logo=rust&logoColor=white" alt="Rust">
+  <img src="https://img.shields.io/badge/React-3873b2?style=flat-square&logo=react&logoColor=white" alt="React">
+  <img src="https://img.shields.io/badge/Node.js-3873b2?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js">
+  <img src="https://img.shields.io/badge/PostgreSQL-3873b2?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL">
+</p>
 
-**Before** — three and a half years at FirstLine Software delivering enterprise
-platforms: invoice workflow, industrial IoT, insurance systems.
+<p align="center">
+  <strong>Now</strong> &nbsp;Lead Engineer @ Neovate Digital &nbsp;&nbsp;·&nbsp;&nbsp;
+  <strong>Before</strong> &nbsp;FirstLine Software, 3.5 years
+</p>
 
-**Working with** — TypeScript · Solidity · Rust · React · Node.js · EVM · PostgreSQL
-
-📄 [CV](https://sannikovmatt.github.io/CV/) &nbsp;·&nbsp; Prague, remote &nbsp;·&nbsp; EN / RU / AZ / CZ
+<p align="center">
+  <a href="https://sannikovmatt.github.io/CV/">
+    <img src="https://img.shields.io/badge/CV-sannikovmatt.github.io-3873b2?style=flat-square" alt="CV">
+  </a>
+  &nbsp;&nbsp;Prague, remote&nbsp;&nbsp;·&nbsp;&nbsp;EN / RU / AZ / CZ
+</p>
