@@ -11,7 +11,4 @@ platforms: invoice workflow, industrial IoT, insurance systems.
 
 **Working with** — TypeScript · Solidity · Rust · React · Node.js · EVM · PostgreSQL
 
-Most of my recent work lives in private client repositories, so this profile is
-quieter than the work is. Happy to go through any of it in conversation.
-
 📄 [CV](https://sannikovmatt.github.io/CV/) &nbsp;·&nbsp; Prague, remote &nbsp;·&nbsp; EN / RU / AZ / CZ
